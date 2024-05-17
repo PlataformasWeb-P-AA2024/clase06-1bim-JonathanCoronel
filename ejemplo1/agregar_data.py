@@ -17,6 +17,7 @@ miSaludo2 = Saludo()
 miSaludo2.mensaje = "Buenas tardes"
 miSaludo2.tipo = "formal"
 
+#Se va agregando con los objetos, tanto misaludo como misaludo2
 
 # se agrega el objeto miSaludo
 # a la entidad Saludo a la sesión

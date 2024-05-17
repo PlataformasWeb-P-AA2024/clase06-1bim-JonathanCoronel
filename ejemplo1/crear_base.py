@@ -13,7 +13,7 @@ Base = declarative_base()
 
 
 from sqlalchemy import Column, Integer, String
-
+# public class Saludo extends Base
 class Saludo(Base):
     __tablename__ = 'saludos'
 
